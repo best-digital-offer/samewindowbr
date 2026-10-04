@@ -1,0 +1,6 @@
+{
+  "name": "Operant AI Browser Worker",
+  "description": "Autonomous browser workforce for web research, AI website testing, parallel data extraction, and evidence-verified workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
